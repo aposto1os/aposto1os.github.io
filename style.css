@@ -1,3 +1,18 @@
 html{
-    background-color: cadetblue;
+    background-color: #59B4C3;
+
+}
+
+h1{
+    background-color: #211C6A;
+    color: #74E291;
+}
+
+h2, h3{
+    background-color: #211C6A;
+    color: #74E291;
+}
+
+footer{
+    background-color: #EFF396;
 }
